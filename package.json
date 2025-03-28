@@ -1,0 +1,28 @@
+{
+  "name": "gamesource",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "firebase": "^11.2.0",
+    "pinia": "^2.3.1",
+    "vee-validate": "^4.15.0",
+    "vue": "^3.5.13",
+    "vue-notifications": "^1.0.3",
+    "vue-router": "^4.5.0",
+    "vue-yup-form": "^1.0.8",
+    "vue3-carousel": "^0.13.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.11",
+    "vite-plugin-vue-devtools": "^7.7.0"
+  }
+}
